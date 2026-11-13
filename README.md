@@ -5,7 +5,8 @@ encrypted Wi-Fi, computer-vision automation for video editing, YouTube channel t
 Firefox extension that helps me stay focused while studying. I care about software that is reliable, tested and
 clearly documented.
 
-🎯 **Looking for an entry-level role in IT support or software development in the UK.**
+🎯 **Looking for an entry-level role in IT support or software development in the UK.**<br>
+💼 **LinkedIn:** [linkedin.com/in/ralph-estrocio-1b50ba328](https://www.linkedin.com/in/ralph-estrocio-1b50ba328)
 
 ## Featured projects
 
